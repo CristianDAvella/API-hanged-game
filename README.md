@@ -1,1 +1,7 @@
-# API-hanged-game
+##  install
+
+npm install
+
+## run
+
+node app
